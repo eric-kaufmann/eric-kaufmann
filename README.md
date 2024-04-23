@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Eric, a passionate University Student delving into the fascinating realms of Computational and Data Science. Python aficionado and data wrangler extraordinaire, I'm all about transforming messy datasets into actionable insights.
+
+🔬 Currently exploring the intersection of data science and finance as a part-time Financial Consultant, I thrive on crunching numbers and uncovering hidden patterns.
+
+💻 When I'm not immersed in code, you can find me exploring the latest trends and technologies in the data science world or brainstorming new project ideas over a cup of coffee (or two... or three).
+
+🚀 Let's connect and collaborate on exciting data-driven projects or swap stories about our coding adventures! Hit me up, and let's geek out over data together!
 <!--
 **eric-kaufmann/eric-kaufmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
